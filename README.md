@@ -1,11 +1,15 @@
-Retail Sales SQL Analysis
+##  **Retail Sales SQL Analysis**
+
+
 
 Level: Beginner
 Database: TOBA
 
 This project is a practical replication and adaptation of @najirh’s Retail Sales Analysis, restructured for my own SQL learning and analysis practice. It demonstrates essential SQL concepts used by data analysts to clean, explore, and derive insights from retail sales data.
 
-🎯 Project Objectives
+
+
+## **Project Objectives**
 
 Database Setup: Create and populate a retail sales database (TOBA) using transactional sales data.
 
@@ -15,12 +19,13 @@ Exploratory Data Analysis (EDA): Use SQL queries to understand patterns across c
 
 Business Insights: Write analytical SQL queries to answer real-world business questions such as best-selling months, customer purchasing behavior, and sales by category.
 
-Project Structure
-1️⃣ Database Setup
 
+##  **Project Structure**
+
+#### - Database Setup
 Created a new SQL database named TOBA.
 
-Built and loaded a table (Project1) containing retail sales data with columns including:
+#### -Built and loaded a table (Project1) containing retail sales data with columns including:
 
 transaction_id,
 sale_date, 
@@ -35,7 +40,7 @@ cogs,
 total_sale
 
 
-SQL Tasks & Analysis
+##  **SQL Tasks & Analysis**
 
 Filtered transactions by date and category.
 
@@ -48,7 +53,7 @@ Grouped and aggregated data to find insights on gender-based purchases and time-
 Segmented transactions into Morning, Afternoon, and Evening shifts for behavioral analysis.
 
 
-Key Learnings
+##  **Key Learnings**
 
 Practical application of aggregate and window functions.
 
@@ -58,7 +63,18 @@ Use of CTEs (Common Table Expressions) for readable, modular queries.
 
 Ranking and ordering logic for analytical insights.
 
-🧠 Credits
+
+## **Credits**
 
 This project was inspired by and adapted from the original Retail Sales Analysis by @najirh.
 All analysis and SQL enhancements were recreated and extended for personal learning and exploration.
+
+
+
+
+
+This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+
+Email: tobacodes@gmail.com
+
+LinkedIn: [Victor Oloruntoba](https://www.linkedin.com/in/victor-oloruntoba-8067bb1a5/)
